@@ -11,5 +11,5 @@ You can contact me at <bold>nkhanhha26@gmail.com
 <h2>🚀 Activities / Experience</h2>
 <li>Teaching Assistant for Data Structures</li>
 <li>Girls Who Code Club</li>
-<li>HaverCode (Haverford College)</li>
+<li>HaverCode Club (Haverford College)</li>
 <li>Rewriting the Code Member</li>
