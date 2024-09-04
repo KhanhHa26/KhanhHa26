@@ -1,5 +1,5 @@
-## Hi I am Khanh Ha 👋
-<p>Name Pronunciation: Kan-Ha</p>
+## Hi I am Hannah 👋
+<p>Or call me with my real name: Khanh Ha</p>
 <h2>🚀 Bio </h2>
   <li>
     I am a Computer Science at Bryn Mawr College! I first started my tech journey back in high school in where I took two AP CS classes, and now I am an aspiring Software Engineer!
