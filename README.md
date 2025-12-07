@@ -1,7 +1,7 @@
-## Hi I am Khanh Ha, or Hannah 👋
+## Hi, I am Khanh Ha (Hannah)!
 <h2>🚀 Bio </h2>
   <li>
-    I am a Computer Science at Bryn Mawr College! I first started my tech journey back in high school in where I took two AP CS classes, and now I am an aspiring Software Engineer!
+    I am a Computer Science major at Bryn Mawr College! I started my tech journey in high school, taking two AP CS classes, and now I am an aspiring Software Engineer!
   </li>
   <li>I am based in Bryn Mawr, PA</li>
   <li>I enjoy exploring different food spots 🥐, baking 👩🏻‍🍳🍰, and watching figure skating ⛸️</li>
