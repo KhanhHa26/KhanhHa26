@@ -4,7 +4,7 @@
     I am a Computer Science major at Bryn Mawr College! I started my tech journey in high school, taking two AP CS classes, and now I am an aspiring Software Engineer!
   </li>
   <li>I am based in Bryn Mawr, PA</li>
-  <li>I enjoy exploring different food spots 🥐, baking 👩🏻‍🍳🍰, and watching figure skating ⛸️</li>
+  <li>I enjoy exploring different food spots 🥐, baking 👩🏻‍🍳🍰, and figure skating ⛸️</li>
   </br>
 You can contact me at <bold>nkhanhha26@gmail.com
 
